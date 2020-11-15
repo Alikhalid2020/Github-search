@@ -23,5 +23,4 @@ To fix a bug or enhance an existing module, follow these steps:
    -CSS 
    -TYPESCRIPT
 ## Author
-- Khalid Ali Gosor
-
+- Khalid Ali Goso
